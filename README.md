@@ -26,8 +26,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/SnowTrash/NewsPp">
+    <img src="http://giacomocastagnola.com/uploads/images/Logo-Ahuizote.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">El Hijo del Ahuizote</h3>
@@ -35,14 +35,14 @@
   <p align="center">
     Desarrollo de Aplicación para internet con React Native
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SnowTrash/NewsPp"><strong>Explora los documentos»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/othneildrew/Best-README-Template">Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/SnowTrash/NewsPp/issues">Reporta un Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/SnowTrash/NewsPp/branches/active">Añade un Feature</a>
   </p>
 </p>
 
@@ -50,136 +50,141 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Tabla de Contenidos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#sobre-el-proyecto">Sobre el Proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#construido-con">Construido Con</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#como-empezar">¿Como empezar?</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerrequisitos">Prerrequisitos</a></li>
+        <li><a href="#instalacion">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#avances">Avances</a></li>
+    <li><a href="#contribuir">Contribuir</a></li>
+    <li><a href="#licencia">Licencia</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#referencias-y-recursos">Referencias y Recursos</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre el Proyecto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Imagen Para el Proyecto][product-screenshot]
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+El hijo de el Ahuizote fue un periódico/revista satírica que en julio de 1902 
+fue editada y publicada por los hermanos Ricardo y Enrique Flores Magón.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Intentando crear un espacio libre para la práctica democratizada de la publicación de textos informativos nace este repositorio abierto.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+¿Para qué?
+* El proyecto nace como respuesta a un requerimiento académico de la materia de
+  Programación para Internet esperando servir de guía en la creación de una 
+  aplicación de noticias en React-Native
+* El Hijo de el Ahuizote busca generar un espacio colaborativo en el que se
+  compartan contrastes de distintas notas periodisticas sobre un tema acompañado de datos para generar posturas críticas sobre temas de actualidad
+* Para darle un espacio a ilustradores, diseñadores, periodistas y personas en
+  general en el que puedan compartir sus distintos productos, artísticos, de investigación y reflexión.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+El avance del proyecto será realizado mediante commits que se espera sean claros para ayudar a las personas que quieren construir aplicaciones en React-Native desde la instalación de los requerimientos y también se espera que el proyecto sirva de referencia para aquellos que buscan desarrollar aplicaciones similares a la que se muestra.
 
-### Built With
+### Construido con
+Como base se usa:
+* [React-Native](https://reactnative.dev)
+<br>
+<br>
+Y para los componentes y estilos específicos:
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [HTML](https://www.w3schools.com/html/default.asp)
+* [CSS](https://www.w3schools.com/css/default.asp)
+* [Javascript](https://www.w3schools.com/js/default.asp)
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Como empezar
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### git
+Para obtener el repositorio debes ejecutar el siguiente comando en git-bash.
+<br>
+En caso de **NO** tenerlo instalado: [Consigue git](https://git-scm.com)
+<br>
+Y  puedes [leer la documentacion](https://git-scm.com/docs) o [ver un video tutorial](https://www.youtube.com/watch?v=HiXLkL42tMU&t=174s).
+<br>
+Debes realizar un _fork_ y descargar el proyecto.
+```
+git clone https://github.com/[Tu Username]/NewsPp.git
+```
+Para poder [contribuir](#contribuir) de forma correcta debes familiarizarte con el flujo de git(gitflow) y el uso de GitHub.
+<br>
+<br>
+Si tu contribución es una nota puedes participar [aquí](https://github.com/SnowTrash/SnowTrash.github.io)
 
-### Prerequisites
+### Prerrequisitos
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Tener instalado un editor de codigo
 
-### Installation
+### Instalacion
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+Para comenzar a trabajar con React-Native puedes [Leer la documentacion oficial](https://reactnative.dev/docs/environment-setup) para instalar las dependencias necesarias y crear tu primera aplicación.
+<br>
+<br>
 
+Para el uso de React-Native necesitas:
 
+* Node.js
+* JDK
+* Android Studio
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+1. Para conseguir Node puedes dirigirte a su [Pagina Oficial](https://nodejs.org/en/download/)
+2. Debes instalar npm [](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) 
+3. Descarga e Instala Android Studio [Aquí](https://developer.android.com/studio/index.html)
 
 <!-- ROADMAP -->
-## Roadmap
+## Avances
 
-See the [open issues](https://github.com/SnowTrash/NewsPp/issues?q=is%3Aopen) for a list of proposed features (and known issues).
-
+Puedes ver los [Issues Abiertos](https://github.com/SnowTrash/NewsPp/issues?q=is%3Aopen) para los cambios que se estan haciendo y también visualizar los problemas resueltos y cambios pasados
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribuir
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Las contribuciones y el espiritu de comunidad es lo que mantiene a este proyecto vivo , por lo que todas las contribuciones que se quiean realizar son  **altamente apreciadas**.
+<br>
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. (_fork the proyect_) Para contribuir debes [Bifurcar un repositorio](https://docs.github.com/es/github/getting-started-with-github/fork-a-repo) así no afectarás el proyecto original 
 
+2. (_Create your Feature Branch_) [Crea un rama](https://docs.github.com/es/github/collaborating-with-issues-and-pull-requests/creating-and-deleting-branches-within-your-repository) en tu proyecto para la contribución que deseas realizar (`git checkout -b feature/AmazingFeature`)
+3. (_Commit your Changes_) [Comenta tus cambios](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Guardando-cambios-en-el-Repositorio) (`git commit -m 'Add some AmazingFeature'`)
+4. (_Push to the Branch_) Guarda tus avances en la contribución (`git push origin feature/AmazingFeature`)
+5. (_Open a Pull Request_) [Crear la solicitud de cambios](https://docs.github.com/es/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 
 
 <!-- LICENSE -->
-## License
+## Licencia
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
+Distribuido Bajo la Licencia GPL-2.0 . Visita el apartado de `LICENSE` para más información.
 
 
 <!-- CONTACT -->
-## Contact
+## Contacto
 
-Your Name - [@gosblue](https://twitter.com/gosblue) - juan.vargas2962@alumnos.udg.mx
+[SnowTrash](https://github.com/SnowTrash)
 
-Project Link: [https://github.com/SnowTrash/NewsPp](https://github.com/SnowTrash/NewsPp)
-
+Link del proyecto: [El Hijo de el Ahuizote](https://github.com/SnowTrash/NewsPp)
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Referencias y Recursos
+  ### Para el Readme
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
@@ -192,21 +197,27 @@ Project Link: [https://github.com/SnowTrash/NewsPp](https://github.com/SnowTrash
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
 
+### Para la aplicacion
 
+* [1.- News App - React Native](https://www.youtube.com/watch?v=QG2-GITvEuU)
+* []()
+* []()
+* []()
+* [News Api](https://newsapi.org)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/SnowTrash/NewsPp.svg?style=for-the-badge
 [contributors-url]: https://github.com/SnowTrash/NewsPp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/SnowTrash/NewsPp.svg?style=for-the-badge
 [forks-url]: https://github.com/SnowTrash/NewsPp/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/SnowTrash/NewsPp.svg?style=for-the-badge
 [stars-url]: https://github.com/SnowTrash/NewsPp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/SnowTrash/NewsPp.svg?style=for-the-badge
+[issues-url]: https://github.com/SnowTrash/NewsPp/issues
+[license-shield]: https://img.shields.io/github/license/SnowTrash/NewsPp.svg?style=for-the-badge
 [license-url]: https://github.com/SnowTrash/NewsPp/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/juanvargasudg
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://i.pinimg.com/originals/e8/46/21/e84621e1555e152f8219a3ec93f3dead.jpg
